@@ -1,0 +1,29 @@
+_repo: '----_25417'
+_version: 0.1.0
+alternative_title: Li He shi xuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Li, He
+    alias: 李賀
+    birthdate: 790
+    deathdate: 816
+    gutenberg_agent_id: '31322'
+    url: http://www.gutenberg.org/2009/agents/31322
+    wikipedia: http://en.wikipedia.org/wiki/Li_He
+description: ''
+gutenberg_issued: '2008-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25417'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese poetry -- Tang dynasty, 618-907'
+title: 李賀詩選
+url: http://www.gutenberg.org/ebooks/25417
